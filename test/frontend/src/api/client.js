@@ -1,4 +1,4 @@
-const BASE = '/api';
+const BASE = 'https://dlp-training-platform.onrender.com/api';
 
 async function request(path, options = {}) {
   const url = `${BASE}${path}`;
