@@ -2,3 +2,4 @@ test/backend/data/__pycache__/
 test/backend/engine/__pycache__/ 
 test/backend/routes/__pycache__/ 
 test/backend/__pycache__/ 
+node_modules/ 
